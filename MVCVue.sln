@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35431.28
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Vue2WithMixins", "WebApplication1\Vue2WithMixins.vbproj", "{67E88FD4-3221-4CDE-9F82-34D9C6F6DAAF}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Vue2WithMixins", "src\Vue2WithMixins\Vue2WithMixins.vbproj", "{67E88FD4-3221-4CDE-9F82-34D9C6F6DAAF}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Vue3GettingStarted", "Vue3Docs\Vue3GettingStarted.vbproj", "{C82C299F-9DD8-4197-AD5A-AAF7C63B96F2}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Vue3GettingStarted", "src\Vue3GettingStarted\Vue3GettingStarted.vbproj", "{C82C299F-9DD8-4197-AD5A-AAF7C63B96F2}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Vue3SFCish", "Vue3SFCish\Vue3SFCish.vbproj", "{779E2900-24D4-447F-81C7-C82D9BE5FC2B}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Vue3SFCish", "src\Vue3SFCish\Vue3SFCish.vbproj", "{779E2900-24D4-447F-81C7-C82D9BE5FC2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
