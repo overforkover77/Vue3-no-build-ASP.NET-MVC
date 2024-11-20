@@ -15,4 +15,5 @@ This project contains results of following the 'Getting Started' tutorials on th
 ### Vue3SFCish ###
 This project attempts to use Vue3 in Razor pages as psuedo-SFC (.vue) files without needing to build the Vue pages/scripts.
 Builds upon many blog articles attempting to do the same thing with Vue2.
-*This is the main project of the repo.*
+
+**##This is the main project of the repo.##**
